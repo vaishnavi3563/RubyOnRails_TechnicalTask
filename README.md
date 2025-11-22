@@ -46,7 +46,6 @@ project/
 
 ##  Backend Setup
 
-```bash
 cd backend
 npm install
 
