@@ -42,46 +42,36 @@ project/
 ├── public/
 └── .env
 
+---
 
-PROJECT SETUP:
+##  Backend Setup
 
-BACKEND
-``` bash
+```bash
 cd backend
 npm install
+
 Create .env file:
-
-ini
-Copy code
 MONGO_URI=your_mongodb_connection_string
+
 Run seed data (optional):
-
-``` bash
-Copy code
 npm run seed
-Start backend:
 
-bash
-Copy code
+Start backend:
 npm run dev
 Backend runs at: http://localhost:5000/api
 
+---
 
-FRONTEND SETUP:
+##  Frontend Setup
 
-bash
-Copy code
 cd frontend
 npm install
-Create .env file:
 
-bash
-Copy code
+Create .env file:
 REACT_APP_API_URL=http://localhost:5000/api
+
 Start frontend:
 
-bash
-Copy code
 npm start
 Frontend runs at: http://localhost:3000
 
