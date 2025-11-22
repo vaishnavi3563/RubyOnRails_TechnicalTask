@@ -47,7 +47,7 @@ Copy code
 
 ---
 
-##  Backend Setup
+BACKEND SETUP:
 
 ```bash
 cd backend
@@ -70,7 +70,7 @@ npm run dev
 Backend runs at: http://localhost:5000/api
 
 
-## Frontend Setup
+FRONTEND SETUP:
 
 bash
 Copy code
