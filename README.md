@@ -43,9 +43,6 @@ project/
 └── .env
 
 
-SETUP:
-
-BACKEND SETUP
 ```bash
 cd backend
 npm install
