@@ -42,6 +42,7 @@ project/
 ├── public/
 └── .env
 
+PROJECT SETUP:
 
 ```bash
 cd backend
