@@ -42,12 +42,10 @@ project/
 ├── public/
 └── .env
 
-yaml
-Copy code
 
+SETUP:
 
-BACKEND SETUP:
-
+BACKEND SETUP
 ```bash
 cd backend
 npm install
