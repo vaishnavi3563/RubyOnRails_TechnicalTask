@@ -71,7 +71,6 @@ Create .env file:
 REACT_APP_API_URL=http://localhost:5000/api
 
 Start frontend:
-
 npm start
 Frontend runs at: http://localhost:3000
 
