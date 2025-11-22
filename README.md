@@ -45,7 +45,6 @@ project/
 yaml
 Copy code
 
----
 
 BACKEND SETUP:
 
