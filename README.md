@@ -56,7 +56,7 @@ Copy code
 MONGO_URI=your_mongodb_connection_string
 Run seed data (optional):
 
-bash
+``` bash
 Copy code
 npm run seed
 Start backend:
