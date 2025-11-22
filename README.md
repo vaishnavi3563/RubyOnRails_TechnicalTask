@@ -42,9 +42,11 @@ project/
 ├── public/
 └── .env
 
+
 PROJECT SETUP:
 
-```bash
+BACKEND
+bash
 cd backend
 npm install
 Create .env file:
