@@ -46,7 +46,7 @@ project/
 PROJECT SETUP:
 
 BACKEND
-bash
+``` bash
 cd backend
 npm install
 Create .env file:
