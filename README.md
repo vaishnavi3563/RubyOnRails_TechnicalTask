@@ -16,7 +16,7 @@ It allows users to manage **Employees and Departments**, similar to the original
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -47,7 +47,7 @@ Copy code
 
 ---
 
-## ⚙️ Backend Setup
+##  Backend Setup
 
 ```bash
 cd backend
@@ -70,7 +70,7 @@ npm run dev
 Backend runs at: http://localhost:5000/api
 
 
-Frontend Setup
+## Frontend Setup
 
 bash
 Copy code
